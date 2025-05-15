@@ -1,4 +1,4 @@
 # first-repo
 first github repo
 <br>
-author-amulya kumar (tiwari)
+author-Amulya kumar
